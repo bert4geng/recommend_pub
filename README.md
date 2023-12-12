@@ -30,7 +30,7 @@ pip install -r requirements.txt
 pip install -e . 
 ```
 
-## Usage <a name = "usage"></a>
+## Usage and deployment <a name = "usage"></a>
 
 ```
 docker-compose up --build
