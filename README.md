@@ -88,7 +88,7 @@ Project organization
 
 Project report
 
-Data Analysis Report -> notebooks/data_analysis_report.ipynb
+Data Analysis Report -> notebooks/data_analysis_report.ipynb; reports/Data Analysis Report.pdf
 
 Modeling and Evaluation Report -> notebooks/user_based_collaborative_filtering.ipynb
 
